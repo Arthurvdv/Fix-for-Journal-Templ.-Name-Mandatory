@@ -1,0 +1,11 @@
+**.alcache
+**.alpackages
+**.altemplates
+**.snapshots
+**.altestrunner
+launch.json
+rad.json
+*.g.xlf
+*.app
+!/.apps/*.app
+!/App/.appSourceCopPackages/*.app

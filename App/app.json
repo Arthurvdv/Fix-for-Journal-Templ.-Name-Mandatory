@@ -1,0 +1,29 @@
+{
+  "id": "712ad67c-b7b7-4e6d-b71c-d09b2856b156",
+  "name": "Fix for Journal Templ. Name Mandatory",
+  "publisher": "Business Central Community",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "dependencies": [],
+  "screenshots": [],
+  "application": "20.0.0.0",
+  "platform": "1.0.0.0",
+  "idRanges": [
+    {
+      "from": 90500,
+      "to": 90599
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ],
+  "runtime": "9.0"
+}
