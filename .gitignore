@@ -3,9 +3,5 @@
 **.altemplates
 **.snapshots
 **.altestrunner
-launch.json
-rad.json
+**.vscode
 *.g.xlf
-*.app
-!/.apps/*.app
-!/App/.appSourceCopPackages/*.app
