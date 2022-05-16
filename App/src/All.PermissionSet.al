@@ -7,5 +7,6 @@ permissionset 90500 "PTE All"
     Permissions =
          codeunit "PTE Install" = X,
          codeunit "PTE Management" = X,
-         codeunit "PTE Upgrade" = X;
+         codeunit "PTE Upgrade" = X,
+         report "PTE Update G/L Entries" = X;
 }
